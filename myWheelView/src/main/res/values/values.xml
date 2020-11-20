@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyLoopView">
+        <attr format="integer" name="awv_textsize"/>
+        <attr format="float" name="awv_lineSpace"/>
+        <attr format="integer" name="awv_centerTextColor"/>
+        <attr format="integer" name="awv_outerTextColor"/>
+        <attr format="integer" name="awv_dividerTextColor"/>
+        <attr format="integer" name="awv_itemsVisibleCount"/>
+        <attr format="boolean" name="awv_isLoop"/>
+        <attr format="integer" name="awv_initialPosition"/>
+        <attr format="float" name="awv_scaleX"/>
+    </declare-styleable>
+    <dimen name="pickerview_textsize_default">26sp</dimen>
+</resources>
