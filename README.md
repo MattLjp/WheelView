@@ -75,7 +75,7 @@ awv_isLoop	|boolean|	true|	is loop mode
 # Methods:
 method 方法|	description 描述
 --|--
-void setItems(List list)	| 设置滚轮数据（required）
+void setItems(List list)	| 设置滚轮数据
 void setCyclic(boolean loop)|	设置滚轮是否循环滚动
 void setItemsVisibleCount(int visibleNumber)|设置列表显示的数量
 void setCurrentItem(final int selection)|	设置当前选中项
