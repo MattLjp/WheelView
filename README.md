@@ -66,9 +66,9 @@ Attributes|	Format|	Default	| Description
 --|--|--|--
 awv_textsize|	integer|	15|	textsize
 awv_lineSpace|	float|	2.0f|	line space
-awv_centerTextColor|	integer|	oxff313131|	center text color
+awv_centerTextColor|	integer|	0xff313131|	center text color
 awv_outerTextColor|	integer|	0xffafafaf|	outer text color
-awv_dividerTextColor|	integer	| oxff313131|	center text color
+awv_dividerTextColor|	integer	| 0xff313131|	center text color
 awv_itemsVisibleCount|	integer	|9|	visible item count
 awv_isLoop	|boolean|	true|	is loop mode
 
